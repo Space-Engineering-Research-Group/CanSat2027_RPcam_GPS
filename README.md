@@ -1,0 +1,2 @@
+# CanSat2027_RPcam_GPS
+2027年度のRasPicameraとGPSのテストコード
