@@ -1,6 +1,6 @@
 # ファイル概要: CanSatカメラ・GPS処理をC++17でビルド・テストするMakefile
 # 作成者コンテキスト: 部活動CanSat向けのRaspberry Pi Zero 2W制御コード
-# 日付: YYYY-MM-DD
+# 日付: 20260707
 CXX ?= c++
 CXXFLAGS ?= -std=c++17 -Wall -Wextra -Wpedantic -O2
 CPPFLAGS ?= -Iinclude
